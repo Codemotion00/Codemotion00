@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codemotion00
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python 
 
 <!---
 Codemotion00/Codemotion00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
